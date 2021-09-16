@@ -1,0 +1,1 @@
+{"name":"Local: 0s1s2s_sort","url":"c:\\Users\\Shiva\\Documents\\dsa\\babbar450\\array\\0s1s2s_sort.cpp","tests":[{"id":1631730445938,"input":"5\n0 2 1 2 1","output":"0 1 1 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Shiva\\Documents\\dsa\\babbar450\\array\\0s1s2s_sort.cpp","group":"local","local":true}
